@@ -1,4 +1,10 @@
-algorithms
+algorithm
+
+1. take the first element to be sorted and rest to be unsorted
+2. take the 1st elmt in unsorted list and compare it with soted part
+3.u1<s1 tn, insert u1 in correct index
+4.take nxt elmt in usorted part and compare with sorted elements
+5.repeat untill all elmts are sorted
 
 
 
